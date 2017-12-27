@@ -8,5 +8,5 @@ Perfect if you have a project that needs to find nearby vegan venues, but it'll 
 
 To get your unique "Client ID" and "Client Secret" and to learn more about Foursquare API endpoints, go to   https://developer.foursquare.com
 
-Copy and paste these into the URL inside your project.
+Copy and paste the Client ID and Client Secret into the URL inside your project.
 Run, then tap on the button on the main screen to view the objects fully parsed and ready for use.
