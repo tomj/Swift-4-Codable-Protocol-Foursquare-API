@@ -1,4 +1,4 @@
-# DecodableTest
+# Swift 4 Codable Protocol Foursquare API - for finding nearby vegan restaurants
 The best way to find nearby vegan restaurants using the new Swift 4 Codable protocol
 
 The new Swift 4 'Codable' protocol is fast, powerful and easy to use in any project that requires parsing easy to complex JSON.
