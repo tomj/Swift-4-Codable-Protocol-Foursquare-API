@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         
         /* Replace "MY_CLIENT_ID" and "MY_CLIENT_SECRET"  your unique foursquare Client ID and Client Secret into the URL.
 
-         This is the very best endpoint I found for returning nearby vegan restaurants but there are many others for other types of results.
+         This is the very best endpoint I found for returning nearby vegan restaurants but there are many others that provide different results.
          Refer to https://developer.foursquare.com
          */
         
