@@ -4,7 +4,7 @@ The best way to find nearby vegan restaurants using the new Swift 4 Codable prot
 The new Swift 4 'Codable' protocol is fast, powerful and easy to use in any project that requires parsing easy to complex JSON.
 
 This sample project demonstrates the protocol with the Foursquare API and parses the URL for nearby vegan restaurants.
-Perfect if you have a project that needs to find nearby vegan venues, but it'll work for any other Foursquare parameter you choose to pass in the URL.
+Perfect if you have a project that needs to find nearby vegan venues, but it'll work for any other Foursquare API parameter you choose to pass in the URL.
 
 To get your unique "client ID" and "Client secret" and to learn more about Foursquare endpoints, go to   https://developer.foursquare.com
 
